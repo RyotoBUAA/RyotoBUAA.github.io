@@ -9,4 +9,4 @@ redirect_from:
 
 I'm a third year undergraduate student from [School of Software](https://soft.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). My research interest includes machine learning and network measurement.
 
-[Email](21377206@buaa.edu.cn) / [Github](https://github.com/RyotoBUAA)
+[Github](https://github.com/RyotoBUAA)
